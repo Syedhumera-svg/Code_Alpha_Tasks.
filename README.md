@@ -113,3 +113,14 @@ This internship strengthened my understanding of the end-to-end UI/UX design pro
 ---
 
 ⭐ Thank you to CodeAlpha for providing this valuable learning opportunity.
+
+
+📬 Contact
+
+S.Humera
+
+📧 Email: syeedhumera2005@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/syed-humera27
+
+🎨 Behance: https://www.behance.net/shumera
