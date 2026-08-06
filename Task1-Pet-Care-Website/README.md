@@ -67,3 +67,5 @@ This project helped me improve my skills in:
 ---
 
 ⭐ Designed during my **CodeAlpha UI/UX Internship**
+
+Task--1 Figma link: https://www.figma.com/design/jQp3XsDiNLypT2uLAElQm5/Task-1?node-id=0-1&t=MlaA6NEEkjxcGhWz-1
