@@ -1,4 +1,7 @@
-## 📌 Project Description
+# 🐾 Pet Care Website UI/UX Design
+
+
+📌 Project Description
 
 The Pet Care Website is a modern and user-friendly UI/UX design created in Figma as part of my CodeAlpha UI/UX Design Internship. 
 
