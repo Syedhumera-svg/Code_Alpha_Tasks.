@@ -71,3 +71,5 @@ This project strengthened my understanding of visual design principles, responsi
 ---
 
 ⭐ **Designed as part of the CodeAlpha UI/UX Design Internship**
+
+Task 2- figma link: https://www.figma.com/design/qi17YGHYCWyDHmWbinMogl/Task-2?node-id=0-1&t=a2p4MzMZeYN2tDqN-1
